@@ -2,22 +2,23 @@
 
 ### Software Development Student · JavaScript · TypeScript · Java
 
-I'm a Software Development student focused on building practical, reliable, and maintainable software.
+I'm a **Software Development student** focused on building practical, reliable, and maintainable software.
 
-I'm currently developing my skills in **JavaScript, TypeScript, and Java** through my studies and personal projects. I enjoy solving problems through code and learning how different technologies work together.
+I'm currently developing my skills in **JavaScript, TypeScript, and Java** through my studies and personal projects. I enjoy solving problems through code, working collaboratively, and learning how different technologies work together.
 
-My long-term goal is to combine my background in **Software Development** with **Cybersecurity**, with a particular interest in secure software and application security.
+My long-term goal is to combine **Software Development with Cybersecurity**, with a particular interest in **Application Security** and **Secure Software Development**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying **Software Development**
+- 🎓 Studying **Software Development**
 - 💻 Focused on **JavaScript, TypeScript & Java**
+- 🤝 Experience working on collaborative software projects
 - 🛠️ Building projects to strengthen my development skills
 - 📚 Continuously learning new technologies and development practices
 - 🔐 Interested in **Cybersecurity & Application Security**
-- 🚀 Looking to grow into a developer who understands both **software and security**
+- 🚀 Working toward combining **Software Development & Cybersecurity**
 
 ---
 
@@ -31,7 +32,7 @@ My long-term goal is to combine my background in **Software Development** with *
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -42,43 +43,63 @@ My long-term goal is to combine my background in **Software Development** with *
 
 ---
 
+## 🚀 Featured Project
+
+### [Employee Commute Tracker](https://github.com/Bytevex-L/employee-commute-tracker)
+
+A **collaborative school project** developed with fellow Software Development students for a fictional company.
+
+The project is a web application designed to **register and track employees' home-to-work commuting** based on a fictional business case.
+
+**What I gained from this project:**
+
+- 🤝 Experience collaborating with other developers
+- 🌿 Using Git and GitHub in a team environment
+- 💻 Developing a functional web application
+- 🧩 Translating requirements into a practical software solution
+- 🐛 Debugging and solving problems collaboratively
+
+> ⚠️ **Educational project:** This project was developed by students and has not been professionally security-audited. It is intended for educational and demonstration purposes only and should not be used in production or with sensitive data without an appropriate security review.
+
+---
+
 ## 🎯 Currently Learning
 
-**Software Development**
-- Writing clean and maintainable code
+### Software Development
+
+- Clean and maintainable code
 - Object-oriented programming
 - Software architecture and design
-- Version control with Git
+- Git & GitHub
 - Building practical applications
+- Collaborative software development
 
-**Future Focus**
-- Cybersecurity fundamentals
-- Application Security
-- Secure Software Development
-- Web & System Security
+### Future Focus
 
----
-
-## 🚀 What I'm Working Toward
-
-My current priority is becoming a strong software developer through education, hands-on projects, and continuous learning.
-
-After completing my Software Development studies, I want to expand my knowledge into **Cybersecurity** and explore how security can be integrated into the software development process.
-
-Ultimately, I want to understand not only **how to build software**, but also **how to build software securely**.
+- 🔐 Cybersecurity fundamentals
+- 🛡️ Application Security
+- 🔒 Secure Software Development
+- 🌐 Web Security
+- 🧪 Security Testing
 
 ---
 
-## 📂 Featured Projects
+## 🎓 Career Direction
 
-> Projects will be added here as I continue building and expanding my portfolio.
+My current focus is becoming a strong **Software Developer** through education, hands-on projects, and continuous learning.
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| 🚧 Coming soon | More projects in development | JavaScript · TypeScript · Java |
+After completing my Software Development studies, I want to expand my knowledge into **Cybersecurity** and develop a deeper understanding of how security can be integrated throughout the software development lifecycle.
+
+My goal is to understand not only **how to build software**, but also **how to build software securely**.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: `tywdj123@gmail.com`
 
 ---
 
 ### 💡 Always learning. Always building.
 
-I'm interested in opportunities where I can learn, contribute, and grow as a developer.
+I'm interested in opportunities where I can **learn, contribute, collaborate, and grow as a developer**.
