@@ -96,7 +96,7 @@ My goal is to understand not only **how to build software**, but also **how to b
 
 ## 📫 Connect With Me
 
-- 📧 Email: `tywdj123@gmail.com`
+- 📧 Email: `contact@bytevex.dev`
 
 ---
 
